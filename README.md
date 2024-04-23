@@ -2,23 +2,25 @@
 
 ## Aula 1
 
-- [x] Instalação do ambiente de programação (VSCode, Copilot, Python e extensões para VSCode)
-- [ ] Demonstração de comandos do ambiente Python
-- [ ] Variáveis em Python
-- [ ] Tipos de dados básicos em Python (str, int, float, bool)
-- [ ] Interação com o usuário em Python
-- [ ] Mini-projeto: Somador de números
+- [x] Instalação do ambiente de programação (VSCode, Python e extensões para VSCode)
+- [x] Demonstração de comandos do ambiente Python
+- [x] Variáveis em Python
+- [x] Tipos de dados básicos em Python (str, int, float, bool)
+- [x] Interação com o usuário em Python
+- [x] Mini-projeto: Somador de números
 
 ## Aula 2
-- [ ] Estruturas condicionais em Python (if / elif / else)
+- [x] Instalação do GitHub Copilot
+- [x] Estruturas condicionais em Python (if / elif / else)
 - [ ] Operadores lógicos
 - [ ] Biblioteca math
-- [ ] Mini-projeto: Calculadora
+- [x] Mini-projeto: Calculadora
 
 ## Aula 3
 - [ ] Estruturas de repetição em python (while / for)
 - [ ] Funções range, iter, next
 - [ ] While / else - recurso do python
+- [ ] Mini-projeto: Carrinho de compras
 
 ## Aula 4
 - [ ] Funções em python
