@@ -13,24 +13,25 @@
 - [x] Instalação do GitHub Copilot
 - [x] Estruturas condicionais em Python (if / elif / else)
 - [ ] Operadores lógicos
-- [ ] Biblioteca math
+- [x] Biblioteca math
 - [x] Mini-projeto: Calculadora
 
 ## Aula 3
-- [ ] Estruturas de repetição em python (while / for)
+- [x] Estruturas de repetição em python (while / for)
 - [ ] Funções range, iter, next
-- [ ] While / else - recurso do python
+- [x] While / else - recurso do python
 - [ ] Mini-projeto: Carrinho de compras
 
 ## Aula 4
-- [ ] Funções em python
-- [ ] Type Hints
+- [x] Funções em python
+- [x] Type Hints
 - [ ] Constantes ou variáveis
 - [ ] Formatação de strings
 - [ ] Métodos úteis com strings
 
 ## Aula 5
 - [ ] Estruturas de dados em Python
+- [ ] Listas em Python
 - [ ] Biblioteca collections
 - [ ] Projeto: Jogo da forca
 
